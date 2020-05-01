@@ -1,0 +1,794 @@
+[
+	{
+		"id": "1", 
+		"judul": "Ar-Rahman",
+        "arti": "Yang Maha Pengasih",
+        "keterangan": "Allah ar-Rahman artinya dzat yang maha pengasih terhadap semua makhluk yang ada di dunia ini tanpa terkecuali, baik kepada yang taat ataupun ingkar kepadaNya sekalipun.",
+        "perilaku": "Menjadi orang yang selalu mengasihani antar sesama makhluk hidup ciptaan Allah SWT.",
+        "imgURL": "https://raw.githubusercontent.com/arindameika/Asmaul-Husna/data_asmaul_husna/asmaul_husna_image/1.png"
+	},
+	{
+		"id": "2",
+		"judul": "Ar-Rahim",
+        "arti": "Yang Maha Penyayang",
+        "keterangan": "Allah ar-Rahim artinya Dzat yang maha penyayang terhadap hamba-Nya yang beriman dan beramal shaleh.",
+        "perilaku": "Menyayangi siapapun di dunia ini baik itu kepada Allah SWT, sesama manusia, hewan, tumbuhan, lingkungan, atau diri kita sendiri.",
+        "imgURL": "https://raw.githubusercontent.com/arindameika/Asmaul-Husna/data_asmaul_husna/asmaul_husna_image/2.png"
+	},
+	{
+		"id": "3",
+		"judul": "Al-Malik",
+        "arti": "Yang Maha Merajai",
+        "keterangan": "Allah Al-Malik artinya Dzat yang maha menguasai terhadap semua makhlukNya, sehingga tidak ada satu makhlukpun yang terlepas dari kekuasaan-Nya.",
+        "perilaku": "Mampu menguasai diri sendiri / mampu mengendalikan diri",
+        "imgURL": "https://raw.githubusercontent.com/arindameika/Asmaul-Husna/data_asmaul_husna/asmaul_husna_image/3.png"
+	},
+	{
+		"id": "4",
+		"judul": "Al-Quddus",
+        "arti": "Yang Maha Suci",
+        "keterangan": "Allah al-Quddus artinya Dzat yang maha Quddus (suci) dari segala sifat, yang disifatkan oleh orang-orang kafir musyrik kepada-Nya.",
+        "perilaku": "Senantiasa menjaga kesucian diri dengan menjaga wudhu sepanjang hari.",
+        "imgURL": "https://raw.githubusercontent.com/arindameika/Asmaul-Husna/data_asmaul_husna/asmaul_husna_image/4.png"
+	},
+	{
+		"id": "5",
+		"judul": "As-Salaam",
+        "arti": "Yang Maha Memberi Kesejahteraan",
+        "keterangan": "Allah as-Salam artinya Dzat yang menjamin keselamatan terhadap seluruh alam semesta.",
+        "perilaku": "Secara verbal, seorang muslim diperintahkan untuk mengucapkan salam ketika bertemu saudara sesama muslim. Sedangkan secara nonverbal, seorang muslim pun berkewajiban untuk saling tolong menolong sesama makhluk Allah SWT. Dengan tolong menolong tentunya kita dapat memberi keselamatan bagi orang lain.",
+        "imgURL": "https://raw.githubusercontent.com/arindameika/Asmaul-Husna/data_asmaul_husna/asmaul_husna_image/5.png"
+	},
+	{
+		"id": "6",
+		"judul": "Al-Mu'min",
+        "arti": "Yang Maha Memberi Keamanan",
+        "keterangan": "Allah al-Mu’min artinya Dzat yang Maha mengamankan kepada semua makhluknya, sehingga tidak satupun makhluk yang bisa mengganggu makhluk yang dalam keamanan Allah.",
+        "perilaku": "Menenangkan teman yang sedih dan ketakutan, membantu membimbing teman belajar agar ia tidak takut menghadapi ujian, membela teman yang dibully,",
+        "imgURL": "https://raw.githubusercontent.com/arindameika/Asmaul-Husna/data_asmaul_husna/asmaul_husna_image/6.png"
+	},
+	{
+		"id": "7",
+		"judul": "Al-Muhaimin",
+        "arti": "Yang Maha Pemelihara",
+        "keterangan": "Allah al-Muhaimin artinya Dzat yang maha memelihara semua makhlukNya dangan sangat cermat dan teliti, sehingga tak ada satupun yang tak terpelihara Allah.",
+        "perilaku": "Merawat, mengasuh dan mendidik fakir miskin, serta merawat hewan dengan memberikan makan dan minum",
+        "imgURL": "https://raw.githubusercontent.com/arindameika/Asmaul-Husna/data_asmaul_husna/asmaul_husna_image/7.png"
+	},
+	{
+		"id": "8",
+		"judul": "Al-Aziz",
+        "arti": "Yang Maha Perkasa",
+        "keterangan": "Allah al-Aziz artinya Dzat yang maha perkasa, yang keperkasaanNya tiada bandingnya, sehingga tiada kesulitan didalam menghancurkan alam semesta ini.",
+        "perilaku": "Dikap meneladani Al Aziz berarti kita harus kuat dan tidak boleh lemah baik lahir maupun batin. Seperti ketegasan dalam membela kebenaran dan menolak/memerangi kemaksiatan maupun kejahatan.",
+        "imgURL": "https://raw.githubusercontent.com/arindameika/Asmaul-Husna/data_asmaul_husna/asmaul_husna_image/8.png"
+	},
+	{
+		"id": "9",
+		"judul": "Al-Jabbar",
+        "arti": "Yang Memiliki Mutlak Kegagahan",
+        "keterangan": " Allah al-Jabbar artinya Dzat yang maha memaksa, yaitu Allah dapat memaksakan kehendaknya terhadap semua makhlukNya meskipun ia merasa enggan dipaksakan.",
+        "perilaku": "Selalu perkasa dan memiliki keperkasaan",
+        "imgURL": "https://raw.githubusercontent.com/arindameika/Asmaul-Husna/data_asmaul_husna/asmaul_husna_image/9.png"
+	},
+	{
+		"id": "10",
+		"judul": "Al-Mutakabbir",
+        "arti": "Yang Maha Memiliki Kebesaran",
+        "keterangan": "Allah al-Mutakabbir artinya Dzat yang maha sombong, yaitu hanya Allah saja yang mempunyai hak sombong sebagai pencipta, bukan makhluk lain-Nya.",
+        "perilaku": "Tidak sombong karena masih ada Allah SWT yang lebih besar",
+        "imgURL": "https://raw.githubusercontent.com/arindameika/Asmaul-Husna/data_asmaul_husna/asmaul_husna_image/10.png"
+	},
+	{
+		"id": "11",
+		"judul": "Al-Khaliq",
+        "arti": "Yang Maha Pencipta",
+        "keterangan": "Allah al-Khaliq artinya Dzat yang maha pencipta, yaitu semua yang selainNya adalah merupakan ciptaanNya. Jadi tidak ada satu makhluk pun di dunia ini yang bukan ciptaanNya.",
+        "perilaku": "Selalu berusaha untuk menciptakan sesuatu yang baru (kreatif)",
+        "imgURL": "https://raw.githubusercontent.com/arindameika/Asmaul-Husna/data_asmaul_husna/asmaul_husna_image/11.png"
+	},
+	{
+		"id": "12",
+		"judul": "Al-Baariʾ",
+        "arti": "Yang Maha Melepaskan (Membuat, Membentuk, Menyeimbangkan",
+        "keterangan": " Allah al-Bari’ artinya Dzat yang maha merencanakan, yaitu pelaksana dalam segala kejadianyang sudah direncanakan sebelumnya.",
+        "perilaku": "Selalu berkreasi dan berinovasi untuk membentuk produk baru.",
+        "imgURL": "https://raw.githubusercontent.com/arindameika/Asmaul-Husna/data_asmaul_husna/asmaul_husna_image/12.png"
+	},
+	{
+		"id": "13",
+		"judul": "Al-Musawwir",
+        "arti": "Yang Maha Membentuk Rupa (makhluk-Nya)",
+        "keterangan": "Allah al-Musawwir artinya Dzat yang maha membentuk, yaitu membentuk segala macam rupa makhlukNya, sejak dari yang paling cantik/ tanpan sampai dengan yang kurang sempurna, dari yang besar sampai kepada yang sekecil-kecilnya dan sebaliknya.",
+        "perilaku": "Membuat karya atau desain baru.",
+        "imgURL": "https://raw.githubusercontent.com/arindameika/Asmaul-Husna/data_asmaul_husna/asmaul_husna_image/13.png"
+	},
+	{
+		"id": "14",
+		"judul": "Al-Ghaffar",
+        "arti": "Yang 	Maha Pengampun",
+        "keterangan": "Allah al-Ghaffar artinya Dzat yang maha memberi ampun, yaitu memberikan ampunan kepada hamba-hambaNya yang banyak dosanya, tetapi dengan satu syarat yaitu tidak boleh diulangi.",
+        "perilaku": "Selalu memaafkan kesalahan orang lain",
+        "imgURL": "https://raw.githubusercontent.com/arindameika/Asmaul-Husna/data_asmaul_husna/asmaul_husna_image/14.png"
+	},
+	{
+		"id": "15",
+		"judul": "Al-Qahhar",
+        "arti": "Yang Maha Memaksa",
+        "keterangan": "Allah al-Qahhar artinya Dzat yang maha memaksa, yaitu memaksakan kehendakNya terhadap makhlukNya tanpa terkecuali dan tidak bisa lagi dihalang-halangi oleh siapapun.",
+        "perilaku": "Memiliki kekuatan untuk menopang kebaikan",
+        "imgURL": "https://raw.githubusercontent.com/arindameika/Asmaul-Husna/data_asmaul_husna/asmaul_husna_image/15.png"
+	},
+	{
+		"id": "16",
+		"judul": "Al-Wahhab",
+        "arti": "Yang Maha Pemberi Karunia",
+        "keterangan": "Allah al-Wahhab artinya Dzat yang maha memberi, yaitu memberikan segalanya terhadap kebutuhan makhlukNya, tanpa diminta sebelumnya Allah sudah menyediakannya.",
+        "perilaku": "Selalu memberi kepada orang yang lebih membutuhkan.",
+        "imgURL": "https://raw.githubusercontent.com/arindameika/Asmaul-Husna/data_asmaul_husna/asmaul_husna_image/16.png"
+	},
+	{
+		"id": "17",
+		"judul": "Ar-Razzaq",
+        "arti": "Yang Maha Pemberi Rezeki",
+        "keterangan": "Allah ar-Razaq artinya Dzat yang maha memberi rejeki, yaitu memberikan rejeki kepada semua makhlukNya untuk kebutuhan hidupnya.",
+        "perilaku": "Membagikan rezeki yang diperoleh dengan cara infaq dan shodaqoh.",
+        "imgURL": "https://raw.githubusercontent.com/arindameika/Asmaul-Husna/data_asmaul_husna/asmaul_husna_image/17.png"
+	},
+	{
+		"id": "18",
+		"judul": "Al-Fattah",
+        "arti": "Yang Maha Pembuka Rahmat",
+        "keterangan": " Allah al-Fattah artinya Dzat yang maha membuka, yaitu memberikan rahmatNya untuk keperluan semua makhlukNya. Termasuk juga membukakan kesulitan yang dialami hambahambaNya untuk menuju kemudahan.",
+        "perilaku": "Tepat dalam mengambil sebuah keputusan, karena ketepatan dalam mengambil keputusan merupakan awal dari kesuksesan kita dalam hidup ini.",
+        "imgURL": "https://raw.githubusercontent.com/arindameika/Asmaul-Husna/data_asmaul_husna/asmaul_husna_image/18.png"
+	},
+	{
+		"id": "19",
+		"judul": "Al-ʿAlim",
+        "arti": "Yang Maha Mengetahui (Memiliki Ilmu)",
+        "keterangan": "Allah maha mengetahui segala galanya baik lahir maupun batin yang terjadi pada makhluknya, karena ilmu Allah tak terbatas.",
+        "perilaku": "Kecintaan untuk belajar dan terus belajar, memperdalam ilmu sebanyak-banyaknya disertai dengan keyakinan bahwa hanya orang yang yang beriman dan berilmulah yang akan ditinggikan derajadnya oleh Allah.",
+        "imgURL": "https://raw.githubusercontent.com/arindameika/Asmaul-Husna/data_asmaul_husna/asmaul_husna_image/19.png"
+	},
+	{
+		"id": "20",
+		"judul": "Al-Qabid",
+        "arti": "Yang Maha Menyempitkan (makhluk-Nya)",
+        "keterangan": "Allah al-Qabidh artinya Dzat yang maha menggenggam rejeki, yaitu menggenggam di dalam menyempitkan hidup dengan mengurangi rejeki hamba-hambaNya yang dikehendaki.",
+        "perilaku": "Selalu mengendalikan diri untuk selalu bersyukur dan tidak tamak atas apa yang telah diberikan oleh Allah SWT.",
+        "imgURL": "https://raw.githubusercontent.com/arindameika/Asmaul-Husna/data_asmaul_husna/asmaul_husna_image/20.png"
+	},
+	{
+		"id": "21",
+		"judul": "Al-Basith",
+        "arti": "Yang Maha Meluaskan (makhluk-Nya)",
+        "keterangan": "Allah Maha Meluaskan / Maha Melapangkan Hidup / Maha Melimpahkan Nikmat, yaitu memudahkan terkumpulnya rezeki bagi siapa yang diinginkan oleh-Nya",
+        "perilaku": "Tidak menghitung dan mengkhayal tentang nikmat Allah yang di berikan kepada orang lain, senantiasa menerima dengan ikhlas atau menyadari spenuhnya bahwa rezeki telah di atur oleh Allah swt, kepada hamba-Nya.",
+        "imgURL": "https://raw.githubusercontent.com/arindameika/Asmaul-Husna/data_asmaul_husna/asmaul_husna_image/21.png"
+	},
+	{
+		"id": "22",
+		"judul": "Al-Khafidh",
+        "arti": "Yang Maha Merendahkan (makhluk-Nya)",
+        "keterangan": "Allah Al-Khafidh berarti Dia berhak merendahkan atau menghinakan makhluk-Nya. Merendahkan atau menghinakan martabat sosial seseorang dari terhormat menjadi terhina disebabkan oleh perilakunya yang merugikan orang lain.",
+        "perilaku": "Selalu rendah hati dan tidak merugikan orang lain, karena Allah akan merendahkan atau menghinakan makhluk-Nya yang berbuat merugikan orang lain.",
+        "imgURL": "https://raw.githubusercontent.com/arindameika/Asmaul-Husna/data_asmaul_husna/asmaul_husna_image/22.png"
+	},
+	{
+		"id": "23",
+		"judul": "Ar-Rafiʿ",
+        "arti": "Yang Maha Meninggikan (makhluk-Nya)",
+        "keterangan": "Allah Maha Meninggikan derajat orang-orang beriman dan beramal shaleh, yang menjalankan semua perintah-Nya serta meninggalkan semua larangan-Nya.",
+        "perilaku": "Senantiasa berperilaku dengan akhlak mulia agar Allah meninggikan derajat kita.",
+        "imgURL": "https://raw.githubusercontent.com/arindameika/Asmaul-Husna/data_asmaul_husna/asmaul_husna_image/23.png"
+	},
+	{
+		"id": "24",
+		"judul": "Al-Muʿizz",
+        "arti": "Yang Maha Pemberi Kemuliaan",
+        "keterangan": "Allah memuliakan orang-orang yang jiwanya tenang sehingga mereka mengetahui keindahan kepada hadirat Allah SWT.",
+        "perilaku": "Kita harus taat dan patuh kepada Allah SWT, niscaya allah akan menganugrahkan kemulyaan  kepada kita. Selain itu kita juga harus memulyakan orang tua kita karna mereka adalah orang yg paling berjasa dalam hidup kita, memulyakannya dengan berbakti pada kedua orang tua, tidak sesekali menyakitinya apalagi durhaka padanya.",
+        "imgURL": "https://raw.githubusercontent.com/arindameika/Asmaul-Husna/data_asmaul_husna/asmaul_husna_image/24.png"
+	},
+	{
+		"id": "25",
+		"judul": "Al-Mudzill",
+        "arti": "Yang Maha Pemberi Kehinaan",
+        "keterangan": "Allah-lah yang memiliki kemuliaan dan memberikan kemuliaan kepada orang yang dikehendaki-Nya.",
+        "perilaku": "selalu berusaha mencari kemuliaan di sisi Allah. Ia tidak akan mengorbankan prinsip-prinsip agama yang ia yakini. Ia tidak mudah terjerumus kepada kepentingan atau kesenangan sesaat. Gemerlap duniawi tidaklah memudarkan cahaya keimanannya. Justru semakin memperkokoh keyakinan bahwa kemuliaan dan kehormatan hanya ada di sisi Allah.",
+        "imgURL": "https://raw.githubusercontent.com/arindameika/Asmaul-Husna/data_asmaul_husna/asmaul_husna_image/25.png"
+	},
+	{
+		"id": "26",
+		"judul": "As-Samiʿ",
+        "arti": "Yang Maha Mendengar",
+        "keterangan": " Allah SWT Maha Mendengar semua suara apapun yang ada di alam semesta ini. Pendengaran Allah SWT  tidak terbatas, tidak ada satu pun suara yang lepas dari pendengaran-Nya, meskipun suara itu sangat pelan.",
+        "perilaku": "Berupaya agar segala yang kita ucapkan  merupakan perkataan yang baik dan berguna, karena kita meyakini bahwa Allah selalu mendengar segala yang kita ucapkan. Bahkan yang masih terbesit di dalam hati pun, di dengar oleh Allah SWT.",
+        "imgURL": "https://raw.githubusercontent.com/arindameika/Asmaul-Husna/data_asmaul_husna/asmaul_husna_image/26.png"
+	},
+	{
+		"id": "27",
+		"judul": "Al-Bashir",
+        "arti": "Yang Maha Melihat",
+        "keterangan": "Allah Ta'ala melihat dan menyaksikan segala sesuatu, baik yang nampak dengan nyata ataupun yang tersembunyi.",
+        "perilaku": "Tidak mengambil sesuatu yg bukan milik kita walaupun tidak ada orang yg melihatnya.",
+        "imgURL": "https://raw.githubusercontent.com/arindameika/Asmaul-Husna/data_asmaul_husna/asmaul_husna_image/27.png"
+	},
+	{
+		"id": "28",
+		"judul": "Al-Hakam",
+        "arti": "Yang Maha Menghakimi",
+        "keterangan": "Al Hakam juga berarti yang mempunyai hak membuat hukum dan syariat,  sehingga Allah Subhanahu Wa Ta’ala Allah yang mengetahui apakah seorang hamba berhak mendapatkan balasan baik ataupun balasan buruk.",
+        "perilaku": "Merasa yakin bahwa segala yang kita terima adalah baik untuk kita dan akan membawa kita kepada kebahagiaan di dunia dan akhirat walaupun keadaan awalnya terlihat sebagai sesuatu yang tidak mengenakkan.",
+        "imgURL": "https://raw.githubusercontent.com/arindameika/Asmaul-Husna/data_asmaul_husna/asmaul_husna_image/28.png"
+	},
+	{
+		"id": "29",
+		"judul": "Al-ʿAdl",
+        "arti": "Yang Maha Adil",
+        "keterangan": "Al-Adl artinya adalah Allah SWT Maha Adil. Adilnya Allah SWT adalah mutlak, artinya tidak dipengaruhi oleh apapun atau siapapun itu.",
+        "perilaku": "Perilaku adil dalam masyarakat bisa ditunjukkan dengan sikap tidak membeda bedakan memperlakukan orang lain dalam segala urusan.",
+        "imgURL": "https://raw.githubusercontent.com/arindameika/Asmaul-Husna/data_asmaul_husna/asmaul_husna_image/29.png"
+	},
+	{
+		"id": "30",
+		"judul": "Al-Latif",
+        "arti": "Yang Maha Lembut",
+        "keterangan": "Allah Swt. disifati dengan nama Al-Latif, yakni bermakna bahwa Allah Maha Mengetahui hal-hal yang lembut. Bisa jadi pula, maknanya ialah Allah Mahalembut terhadap hamba-hamba-Nya dalam hal memberikan hidayah kepada mereka.",
+        "perilaku": "Bersikap lemah lembut, sopan dan santun pada orang lain.",
+        "imgURL": "https://raw.githubusercontent.com/arindameika/Asmaul-Husna/data_asmaul_husna/asmaul_husna_image/30.png"
+	},
+	{
+		"id": "31",
+		"judul": "Al-Khabir",
+        "arti": "Yang Maha Mengenal",
+        "keterangan": "Allah sebagai Dzat yang mengetahui hal-hal yang mendetail pada segala sesuatu, Dzat yang ilmu-Nya sampai pada tingkatan meliputi perkara-perkara batin dan yang tersembunyi, sebagaimana ilmu-Nya juga meliputi perkara-perkara yang tampak.",
+        "perilaku": "Tidak menjadi manusia pendusta dan munafik, selalu berkhusnudzon terhadap masa depan, senantiasa mensyukuri atas segala nikmat yang diperoleh.",
+        "imgURL": "https://raw.githubusercontent.com/arindameika/Asmaul-Husna/data_asmaul_husna/asmaul_husna_image/31.png"
+	},
+	{
+		"id": "32",
+		"judul": "Al-Halim",
+        "arti": "Yang Maha Penyantun",
+        "keterangan": "Allah Maha Penyabar / Maha Penyantun / Maha Penghamba, yaitu Allah tidak tergesa-gesa untuk memberi kesempatan kepada manusia untuk memperbaiki diri.",
+        "perilaku": "Bersikap lemah lembut, sopan dan santun pada orang lain.",
+        "imgURL": "https://raw.githubusercontent.com/arindameika/Asmaul-Husna/data_asmaul_husna/asmaul_husna_image/32.png"
+	},
+	{
+		"id": "33",
+		"judul": "Al-ʿAzim",
+        "arti": "Yang Maha Besar, Maha Agung",
+        "keterangan": "Allah Maha Agung, maksudnya adalah bahwa keagungan Allah melebihi segala keagungan yang ada didunia.",
+        "perilaku": "Tidak sombong dan rendah hati kepada semua orang disekolah, baik guru, maupun teman.",
+        "imgURL": "https://raw.githubusercontent.com/arindameika/Asmaul-Husna/data_asmaul_husna/asmaul_husna_image/33.png"
+	},
+	{
+		"id": "34",
+		"judul": "Al-Ghafur",
+        "arti": "Yang Maha Pengampun",
+        "keterangan": "Allah Maha Pengampun, maksudnya Allah senantiasa memaafkan hamba-hambaNya sebanyak apapun dosa yang dilakukan oleh hamba-hambaNya.",
+        "perilaku": "Selalu memaafkan orang lain jika orang lain mempunyai salah pada anda, selalu meminta ampunan kepada Allah jika kita merasa mempunyai salah atau berbuat salah kepada allah.",
+        "imgURL": "https://raw.githubusercontent.com/arindameika/Asmaul-Husna/data_asmaul_husna/asmaul_husna_image/34.png"
+	},
+	{
+		"id": "35",
+		"judul": "Asy-Syakur",
+        "arti": "Yang Maha Berterima Kasih",
+        "keterangan": "Allah Maha Berterima Kasih, maksudnya memberikan balasan yang banyak sekali atas amalan yang kecil.",
+        "perilaku": "Selalu bersyukur dan merasa cukup atas apa yang tekah diberikan oleh Allah kepada kita dan membagikannya kepada orang yang lebih membutuhkan.",
+        "imgURL": "https://raw.githubusercontent.com/arindameika/Asmaul-Husna/data_asmaul_husna/asmaul_husna_image/35.png"
+	},
+	{
+		"id": "36",
+		"judul": "Al-ʿAlīy",
+        "arti": "Yang Maha Tinggi",
+        "keterangan": "Allah Maha Tinggi, maksudnya Allah merupakan Dzat yang paling tinggi yang tidak dapat digambarkan oleh akal dan fikiran dan tidak dapat dipahami oleh otak sepandai apapun orang itu.",
+        "perilaku": "Selalu merasa rendah hati dan tidak sombong, karena masih ada Allah yang Maha Tinggi dari semuanya.",
+        "imgURL": "https://raw.githubusercontent.com/arindameika/Asmaul-Husna/data_asmaul_husna/asmaul_husna_image/36.png"
+	},
+	{
+		"id": "37",
+		"judul": "Al-Kabir",
+        "arti": "Yang Maha Besar",
+        "keterangan": "Allah memiliki kebesaran yang luar biasa pasa Dzat-Nya dan pada Sifat-Sifat-Nya.",
+        "perilaku": "Mengagumi kebesaran Allah SWT",
+        "imgURL": "https://raw.githubusercontent.com/arindameika/Asmaul-Husna/data_asmaul_husna/asmaul_husna_image/37.png"
+	},
+	{
+		"id": "38",
+		"judul": "Al-Hafiz",
+        "arti": "Yang Maha Memelihara",
+        "keterangan": "Allah Maha Memelihara segala sesuatu termasuk amal-amal dari hamba-Nya, sehingga tidak akan disia-siakan sedikitpun untuk memberikan balasan-Nya.",
+        "perilaku": "Menjadi Hamba yang bersyukur, karena Allah telah memelihara dan menjaga kita dalam kehidupan ini, meminta perlindungan hanya kepada Allah, karena hanya Allah-lah yang mampu menjaga dan menjamin keselamatan kita.",
+        "imgURL": "https://raw.githubusercontent.com/arindameika/Asmaul-Husna/data_asmaul_husna/asmaul_husna_image/38.png"
+	},
+	{
+		"id": "39",
+		"judul": "Al-Muqit",
+        "arti": "Yang Maha Pemberi Kecukupan",
+        "keterangan": "Allah Maha Pemberi Kecukupan berarti Allah mencukupkan segala sesuatu yang dibutuhkan oleh hamba-Nya baik itu kebutuhan jasmani maupun rohani.",
+        "perilaku": "Tidak merasa khawatir kita akan kelaparan / merasa kekurangan, karena Allah akan memenuhi semua kebutuhan dari hamba-Nya",
+        "imgURL": "https://raw.githubusercontent.com/arindameika/Asmaul-Husna/data_asmaul_husna/asmaul_husna_image/39.png"
+	},
+	{
+		"id": "40",
+		"judul": "Al-Hasib",
+        "arti": "Yang Maha Membuat Perhitungan",
+        "keterangan": "Allah menciptakan segala sesuatu dengan perhitungan yang teliti, jelas dan benar. ",
+        "perilaku": "Teliti dalam melakukan segala hal juga mencerminkan sifat Al Hasib. Mereka yang perhitungannya baik biasanya akan selalu berhati-hati dan teliti dalam segala hal yang dilakukan.",
+        "imgURL": "https://raw.githubusercontent.com/arindameika/Asmaul-Husna/data_asmaul_husna/asmaul_husna_image/40.png"
+	},
+	{
+		"id": "41",
+		"judul": "Al-Jalil",
+        "arti": "Yang Maha Luhur",
+        "keterangan": "Allah Maha Luhur artinya Allah memiliki sifat-sifat keluhuran karena kesempurnaan sifat-sifat-Nya",
+        "perilaku": "Lebih mencintai Allah dibandingkan dengan apapun di dunia ini, lebih mengutamakan ibadahnya daripada kesibukannya dengan dunia.",
+        "imgURL": "https://raw.githubusercontent.com/arindameika/Asmaul-Husna/data_asmaul_husna/asmaul_husna_image/41.png"
+	},
+	{
+		"id": "42",
+		"judul": "Al-Karim",
+        "arti": "Yang Maha Pemurah",
+        "keterangan": "Allah Maha Pemurah, yaitu mulia tanpa had dan memberi siapapun tanpa diminta atau sebagai pengganti sesuatu pemberian.",
+        "perilaku": "Gemar berinfak, gemar bersedekah, ramah pada sesama, senang memberi pertolongan",
+        "imgURL": "https://raw.githubusercontent.com/arindameika/Asmaul-Husna/data_asmaul_husna/asmaul_husna_image/42.png"
+	},
+	{
+		"id": "43",
+		"judul": "Ar-Raqib",
+        "arti": "Yang Maha Mengawasi",
+        "keterangan": "Allah Dzat Yang Maha memperhatikan (mengetahui) segala yang tersembunyi dalam dada (hati) manusia, yang Maha mengawasi apa yang diusahakan setiap diri manusia.",
+        "perilaku": "Selalu berhati-hati dalam bertindak dan bertutur kata karena Allah selalu mengawasi kegiatan hamba-Nya.",
+        "imgURL": "https://raw.githubusercontent.com/arindameika/Asmaul-Husna/data_asmaul_husna/asmaul_husna_image/43.png"
+	},
+	{
+		"id": "44",
+		"judul": "Al-Mujib",
+        "arti": "Yang Maha Mengabulkan",
+        "keterangan": "Allah Maha Mengabulkan berarti siapa saja yang berdoa dan beribadah kepada Allah maka akan dikabulkan doanya.",
+        "perilaku": "Selalu berpikiran positif bahwa Allah akan mengabulkan do'a kita.",
+        "imgURL": "https://raw.githubusercontent.com/arindameika/Asmaul-Husna/data_asmaul_husna/asmaul_husna_image/44.png"
+	},
+	{
+		"id": "45",
+		"judul": "Al-Wasiʿ",
+        "arti": "Yang Maha Luas",
+        "keterangan": "Allah Maha Luas Pemberiann-Nya, maksudnya kerahmatan-Nya merata kepada segala aspek maujud dan luas pula ilmu-Nya.",
+        "perilaku": "Selalu beribadah untuk mencari rahmat-Nya dan selalu belajar karena ilmu-Nya sangat luas untuk bisa dipelajari.",
+        "imgURL": "https://raw.githubusercontent.com/arindameika/Asmaul-Husna/data_asmaul_husna/asmaul_husna_image/45.png"
+	},
+	{
+		"id": "46",
+		"judul": "Al-Hakim",
+        "arti": "Yang Maha Bijaksana",
+        "keterangan": "Allah Maha Bijaksana dalam membuat segala sesuatu.",
+        "perilaku": "Bijaksana dalam segala hal, terutama dalam mengambil keputusan.",
+        "imgURL": "https://raw.githubusercontent.com/arindameika/Asmaul-Husna/data_asmaul_husna/asmaul_husna_image/46.png"
+	},
+	{
+		"id": "47",
+		"judul": "Al-Wadud",
+        "arti": "Yang Maha Mengasihi",
+        "keterangan": "Allah Maha Mengasihi maksudnya Allah menginginkan segala kebaikan untuk seluruh hamba-Nya dan juga berbuat baik kepada meraka dalam segala hal dan keadaan.",
+        "perilaku": "Sebagai umat yang beragama islam dan beriman harus mempunyai rasa cinta baik kepada Allah, Nabi dan Rosul, serta sesama muslim.",
+        "imgURL": "https://raw.githubusercontent.com/arindameika/Asmaul-Husna/data_asmaul_husna/asmaul_husna_image/47.png"
+	},
+	{
+		"id": "48",
+		"judul": "Al-Majid",
+        "arti": "Yang Maha Mulia",
+        "keterangan": "Allah Maha Mulia dimana kemuliaan-Nya mencapai tingkat tertinggi dalam kehidupan dan keutamaan.",
+        "perilaku": "Berprilaku mulia terhadap orang yang lebih tua menyayangi yang lebih muda dan senantiasa berlemah lembut terhadap sesama.",
+        "imgURL": "https://raw.githubusercontent.com/arindameika/Asmaul-Husna/data_asmaul_husna/asmaul_husna_image/48.png"
+	},
+	{
+		"id": "49",
+		"judul": "Al-Baʿits",
+        "arti": "Yang Maha Membangkitkan",
+        "keterangan": "Allah Maha Membangkitkan, maksudnya Allah membangkitkan semangat dan kemahuan, juga membangkitkan Rasul dan orang-orang yang telah mati dari kubur pada saat hari Kiamat nanti.",
+        "perilaku": "Memberikan selalu dukungan / semangat kepada orang yang sedang membutuhkan dorongan.",
+        "imgURL": "https://raw.githubusercontent.com/arindameika/Asmaul-Husna/data_asmaul_husna/asmaul_husna_image/49.png"
+	},
+	{
+		"id": "50",
+		"judul": "Asy-Syahid",
+        "arti": "Yang Maha Menyaksikan",
+        "keterangan": "Allah Maha Menyaksikan segala gerak gerik dari hamba-Nya.",
+        "perilaku": "Selalu berhati-hati dalam bertindak karena kita selalu diawasi oleh Allah SWT.",
+        "imgURL": "https://raw.githubusercontent.com/arindameika/Asmaul-Husna/data_asmaul_husna/asmaul_husna_image/50.png"
+	},
+	{
+		"id": "51",
+		"judul": "Al-Haqq",
+        "arti": "Yang Maha Benar",
+        "keterangan": "Allah Maha Benar yang kekal dan tidak akan berubah sedikitpun.",
+        "perilaku": "Berkata jujur, menyampaikan kebenaran, berperilaku benar.",
+        "imgURL": "https://raw.githubusercontent.com/arindameika/Asmaul-Husna/data_asmaul_husna/asmaul_husna_image/51.png"
+	},
+	{
+		"id": "52",
+		"judul": "Al-Wakil",
+        "arti": "Yang Maha Memelihara",
+        "keterangan": "Allah Maha Memelihara semua urusan hamba-Nya dan apa yang menjadi keperluan mereka.",
+        "perilaku": "Selalu bertawakkal (berserah diri kepada Allah) setelah melakukan usaha semaksimal mungkin.",
+        "imgURL": "https://raw.githubusercontent.com/arindameika/Asmaul-Husna/data_asmaul_husna/asmaul_husna_image/52.png"
+	},
+	{
+		"id": "53",
+		"judul": "Al-Qawiy",
+        "arti": "Yang Maha Kuat",
+        "keterangan": "Allah Maha Kuat, yakni Allah memiliki kekuasaan yang sempurna",
+        "perilaku": "Tetap kuat dalam menjalani tugas-tugas dan rintangan dalam hidup.",
+        "imgURL": "https://raw.githubusercontent.com/arindameika/Asmaul-Husna/data_asmaul_husna/asmaul_husna_image/53.png"
+	},
+	{
+		"id": "54",
+		"judul": "Al-Matin",
+        "arti": "Yang Maha Kukuh",
+        "keterangan": "Allah Maha Kokoh yang berarti kekuasaan-Nya sudah mencapai kesempurnaan dan berada dipuncaknya.",
+        "perilaku": "Apabila mendapat cobaan yang berat, tetap tawakkal kepada Allah SWT dan tidak larut dalam kesedihan dan penyesalan.",
+        "imgURL": "https://raw.githubusercontent.com/arindameika/Asmaul-Husna/data_asmaul_husna/asmaul_husna_image/54.png"
+	},
+	{
+		"id": "55",
+		"judul": "Al-Wali",
+        "arti": "Yang Maha Melindungi",
+        "keterangan": "Allah Maha Penolong, Pembela, dan Pelindung bagi para auliya`-Nya (kekasih-Nya). Dia-lah yang menolong dan membela para hamba-Nya yang saleh.",
+        "perilaku": "Selalu berlindung hanya kepada Allah SWT jika merasa dalam bahaya.",
+        "imgURL": "https://raw.githubusercontent.com/arindameika/Asmaul-Husna/data_asmaul_husna/asmaul_husna_image/55.png"
+	},
+	{
+		"id": "56",
+		"judul": "Al-Hamid",
+        "arti": "Yang Maha Terpuji",
+        "keterangan": "Allah Maha Terpuji, yakni Dialah yang maha terpuji pada Zat-Nya, nama-nama dan sifat-sifat-Nya.",
+        "perilaku": "Selalu memuji Allah ketika mendapatkan rezeki.",
+        "imgURL": "https://raw.githubusercontent.com/arindameika/Asmaul-Husna/data_asmaul_husna/asmaul_husna_image/56.png"
+	},
+	{
+		"id": "57",
+		"judul": "Al-Muhshi",
+        "arti": "Yang Maha Penghitung",
+        "keterangan": "Allah Al-Muhshi, Allah Maha Mengetahui seluruh makhluk-Nya dengan teliti dan terperinci. Dia mengetahui jumlah dan kadar seluruh ciptaan-Nya dengan tepat.",
+        "perilaku": "Memperhitungkan terlebih dahulu dengan matang akibat yang akan ditimbulkan dalam mengambil suatu tindakan.",
+        "imgURL": "https://raw.githubusercontent.com/arindameika/Asmaul-Husna/data_asmaul_husna/asmaul_husna_image/57.png"
+	},
+	{
+		"id": "58",
+		"judul": "Al-Mubdiʾ",
+        "arti": "Yang Maha Memulai",
+        "keterangan": "Allah Maha Memulai, maksudnya Dia-lah yang memulai segalanya di dalam dunia ini.",
+        "perilaku": "Menjadi orang yang inovatif dan kreatif dalam menciptakan sebuah karya.",
+        "imgURL": "https://raw.githubusercontent.com/arindameika/Asmaul-Husna/data_asmaul_husna/asmaul_husna_image/58.png"
+	},
+	{
+		"id": "59",
+		"judul": "Al-Muʿid",
+        "arti": "Yang Maha Mengembalikan Kehidupan",
+        "keterangan": "Allah Maha Mengembalikan Kehidupan maksudnya Allah-lah yang menumbuhkan kembali setelah terjadi kerusakan.",
+        "perilaku": "memperbaiki segala kesahalan yang diperbuat dan berisikap penuh tanggung jawab.",
+        "imgURL": "https://raw.githubusercontent.com/arindameika/Asmaul-Husna/data_asmaul_husna/asmaul_husna_image/59.png"
+	},
+	{
+		"id": "60",
+		"judul": "Al-Muhyi",
+        "arti": "Yang Maha Menghidupkan",
+        "keterangan": "Allah Maha Menghidupkan setiap sesuatu yang berhak untuk hidup.",
+        "perilaku": "Menjaga dan merawat tanaman / lingkungan agar tetap bersih dan tidak mati.",
+        "imgURL": "https://raw.githubusercontent.com/arindameika/Asmaul-Husna/data_asmaul_husna/asmaul_husna_image/60.png"
+	},
+	{
+		"id": "61",
+		"judul": "Al-Mumit",
+        "arti": "Yang Maha Mematikan",
+        "keterangan": "Allah Maha Mematikan, maksudnya Allah mengambil kehidupan (roh) dari apa-apa yang hidup.",
+        "perilaku": "Selalu ingat akan adanya kematian dan selalu berdoa agar terlindung dari segala bencana.",
+        "imgURL": "https://raw.githubusercontent.com/arindameika/Asmaul-Husna/data_asmaul_husna/asmaul_husna_image/61.png"
+	},
+	{
+		"id": "62",
+		"judul": "Al-Hayyu",
+        "arti": "Yang Maha Hidup",
+        "keterangan": "Allah Maha Hidup, bermakna Allah itu senantiasa hidup (hidup kekal)",
+        "perilaku": "Menggunakan waktu hidup sebaik mungkin dalam beribadah dan beramal shaleh dengan ikhlas semata-mata karena Allah SWT.",
+        "imgURL": "https://raw.githubusercontent.com/arindameika/Asmaul-Husna/data_asmaul_husna/asmaul_husna_image/62.png"
+	},
+	{
+		"id": "63",
+		"judul": "Al-Qayyum",
+        "arti": "Yang Maha Mandiri",
+        "keterangan": "Allah Maha Mandiri bermakna Allah itu berdiri sendiri, dengan-Nya pula berdiri langit dan bumi",
+        "perilaku": "Berusaha mengerjakan sesuatu dengan sendiri terlebih dahulu.",
+        "imgURL": "https://raw.githubusercontent.com/arindameika/Asmaul-Husna/data_asmaul_husna/asmaul_husna_image/63.png"
+	},
+	{
+		"id": "64",
+		"judul": "Al-Wajid",
+        "arti": "Yang Maha Penemu",
+        "keterangan": "Allah yang Maha Menemukan, Memperoleh, Mendapatkan apa saja yang Dia kehendaki",
+        "perilaku": "Selalu yakin akan menemukan yang lebih baik ketika kehilangan sesuatu, selalu yakin bahwa Allah menemukan kita di mana pun kita berada.",
+        "imgURL": "https://raw.githubusercontent.com/arindameika/Asmaul-Husna/data_asmaul_husna/asmaul_husna_image/64.png"
+	},
+	{
+		"id": "65",
+		"judul": "Al-Majid",
+        "arti": "Yang Maha Mulia",
+        "keterangan": "Dia adalah satu-satunya Zat Yang Mahamulia dan tidak ada kemuliaan yang dapat menandingi-Nya.",
+        "perilaku": " menjadi sosok yang selalu berperilaku baik dan memberikan manfaat pada orang lain.",
+        "imgURL": "https://raw.githubusercontent.com/arindameika/Asmaul-Husna/data_asmaul_husna/asmaul_husna_image/65.png"
+	},
+	{
+		"id": "66",
+		"judul": "Al-Wahid",
+        "arti": "Yang Maha Tunggal",
+        "keterangan": "Al-Wahid menggambarkan bahwa Allah tunggal atau Esa",
+        "perilaku": "Meyakini bahwa Allah itu hanya ada satu.",
+        "imgURL": "https://raw.githubusercontent.com/arindameika/Asmaul-Husna/data_asmaul_husna/asmaul_husna_image/66.png"
+	},
+	{
+		"id": "67",
+		"judul": "Al-Ahad",
+        "arti": "Yang Maha Esa",
+        "keterangan": "Allah Maha Esa berarti Allah itu satu.",
+        "perilaku": "Menyembah hanya kepada Allah dan tidak menyekutukannya.",
+        "imgURL": "https://raw.githubusercontent.com/arindameika/Asmaul-Husna/data_asmaul_husna/asmaul_husna_image/67.png"
+	},
+	{
+		"id": "68",
+		"judul": "As-Shamad",
+        "arti": "Yang Maha Dibutuhkan,",
+        "keterangan": "Allah Maha Dibutuhkan, maksudnya Allah selalu menjadi tumpuan bagi hamba-Nya untuk meminta segala sesuatu.",
+        "perilaku": "Meminta kemudahan hanya kepada Allah SWT saat mengalami kesulitan",
+        "imgURL": "https://raw.githubusercontent.com/arindameika/Asmaul-Husna/data_asmaul_husna/asmaul_husna_image/68.png"
+	},
+	{
+		"id": "69",
+		"judul": "Al-Qadir",
+        "arti": "Yang Maha Berkehendak",
+        "keterangan": "Allah Maha Berkehendak berarti apapun yang terjadi di dunia ini adalah atas kehendak Allah SWT",
+        "perilaku": "Memempercayai adanya Takdir.",
+        "imgURL": "https://raw.githubusercontent.com/arindameika/Asmaul-Husna/data_asmaul_husna/asmaul_husna_image/69.png"
+	},
+	{
+		"id": "70",
+		"judul": "Al-Muqtadir",
+        "arti": "Yang Maha Berkuasa",
+        "keterangan": "Allah Maha Berkuasa atas segala sesuatu, dan merupakan tempat berlindung bagi semua makhluk-Nya.",
+        "perilaku": "Menjadikan allah sebagai tempat berlindung",
+        "imgURL": "https://raw.githubusercontent.com/arindameika/Asmaul-Husna/data_asmaul_husna/asmaul_husna_image/70.png"
+	},
+	{
+		"id": "71",
+		"judul": "Al-Muqaddim",
+        "arti": "Yang Maha Mendahulukan",
+        "keterangan": "Allah Maha Mendahulukan sebagian benda dari yang lain dalam mewujudkannya.",
+        "perilaku": "Mendahulukan kepentingan umum dari kepentingan sendiri",
+        "imgURL": "https://raw.githubusercontent.com/arindameika/Asmaul-Husna/data_asmaul_husna/asmaul_husna_image/71.png"
+	},
+	{
+		"id": "72",
+		"judul": "Al-Muʾakhir",
+        "arti": "Yang Maha Mengakhirkan",
+        "keterangan": "Allah Maha Mengakhirkan maksudnya Allah SWT lah yang mengakhirkan kegidupan dari makhuk-makhluk-Nya",
+        "perilaku": "Selalu berbuat baik dan mengingat bahwa kematian menunggu di ujung kehidupan.",
+        "imgURL": "https://raw.githubusercontent.com/arindameika/Asmaul-Husna/data_asmaul_husna/asmaul_husna_image/72.png"
+	},
+	{
+		"id": "73",
+		"judul": "Al-Awwal",
+        "arti": "Yang Maha Awal",
+        "keterangan": "Allah SWT merupakan satu-satunya dzat yang mengawali dan mendahului dari dzat-dzat dan ciptaanya yang lain. Allah SWT tidak diciptakan, tidak dilahirkan, serta tidak ada yang mengawali-Nya.",
+        "perilaku": "Senantiasa berlomba-lomba menjadi yang pertama dan terdepan dalam hal kebaikan.",
+        "imgURL": "https://raw.githubusercontent.com/arindameika/Asmaul-Husna/data_asmaul_husna/asmaul_husna_image/73.png"
+	},
+	{
+		"id": "74",
+		"judul": "Al-Aakhir",
+        "arti": "Yang Maha Akhir",
+        "keterangan": "Dzat yang memiliki sifat kekal dan Maha akhir yang tidak ada sesuatu pun setelah-Nya. Dia Maha kekal tatkala semua makhluk hancur, Maha kekal dengan kekekalannya.",
+        "perilaku": "Menjadikan Allah sebagai satu-satunya tujuan hidup yang tiada tujuan hidup selainNya, tidak ada permintaan kepada selainNya, dan segala kesudahan tertuju hanya kepadaNya, dan segala kesudahan tertuju hanya kepadaNya.",
+        "imgURL": "https://raw.githubusercontent.com/arindameika/Asmaul-Husna/data_asmaul_husna/asmaul_husna_image/74.png"
+	},
+	{
+		"id": "75",
+		"judul": "Az-Zhahir",
+        "arti": "Yang Maha Nyata",
+        "keterangan": "Allah Maha Nyata bermakna Allah menampakkan kewujudan-Nya dengan bukti-bukti dan tanda-tanda ciptaan-Nya.",
+        "perilaku": "Senantiasa merawat tanaman dan pohon dengan baik sebagai bukti kita percaya akan keberadaan dan ciptaan Allah.",
+        "imgURL": "https://raw.githubusercontent.com/arindameika/Asmaul-Husna/data_asmaul_husna/asmaul_husna_image/75.png"
+	},
+	{
+		"id": "76",
+		"judul": "Al-Bathin",
+        "arti": "Yang Maha Ghaib",
+        "keterangan": "Allah Maha Ghaib berarti tidak seorangpun dapat mengenal Dzat-Nya",
+        "perilaku": "Meninggalkan dosa-dosa yang bersifat batiniah (berbohong, curang),Melakukan kebaikan yang tersembunyi dengan lebih baik daripada yang terlihat (sedekah, infaq), danTidak menampakkan sesuatu yang bertentangan dengan hukum Allah.",
+        "imgURL": "https://raw.githubusercontent.com/arindameika/Asmaul-Husna/data_asmaul_husna/asmaul_husna_image/76.png"
+	},
+	{
+		"id": "77",
+		"judul": "Al-Waali",
+        "arti": "Yang Maha Memerintah",
+        "keterangan": "Allah menggenggam segala sesuatu dalam kekuasaan-Nya dan menjadi milik-Nya",
+        "perilaku": "Bersifat lemah lembut, suka menolong sesama manusia, dan saling menyayangi antar umat manusia",
+        "imgURL": "https://raw.githubusercontent.com/arindameika/Asmaul-Husna/data_asmaul_husna/asmaul_husna_image/77.png"
+	},
+	{
+		"id": "78",
+		"judul": "Al-Mutaʿali",
+        "arti": "Yang Maha Tinggi",
+        "keterangan": "Allah Maha Tinggi berarti terpelihara dari segala kekurangan dan kerendahan.",
+        "perilaku": "Mencapai ilmu setinggi tingginya",
+        "imgURL": "https://raw.githubusercontent.com/arindameika/Asmaul-Husna/data_asmaul_husna/asmaul_husna_image/78.png"
+	},
+	{
+		"id": "79",
+		"judul": "Al-Barru",
+        "arti": "Yang Maha Baik, Maha Penderma",
+        "keterangan": "Allah Maha Dermawan berarti kenikmatan dan kebajikan yang Allah limpahkan sangatlah banyak.",
+        "perilaku": "Mengamalkan sebagian harta untuk orang yang membutuhkan",
+        "imgURL": "https://raw.githubusercontent.com/arindameika/Asmaul-Husna/data_asmaul_husna/asmaul_husna_image/79.png"
+	},
+	{
+		"id": "80",
+		"judul": "At-Tawwab",
+        "arti": "Yang Maha Penerima Taubat",
+        "keterangan": "Allah Maha Penerima Taubat berati Allah memberikan pertolongan kepada orang yang melakukan maksiat untuk bertaubat kemudian Allah akan menerimanya.",
+        "perilaku": "Sering memaafkan orang lain yang melakukan kesalahan. Segera bertaubat jika melakukan kesalahan.",
+        "imgURL": "https://raw.githubusercontent.com/arindameika/Asmaul-Husna/data_asmaul_husna/asmaul_husna_image/80.png"
+	},
+	{
+		"id": "81",
+		"judul": "Al-Muntaqim",
+        "arti": "Yang Maha Pemberi Balasan",
+        "keterangan": "Allah akan memberi balasan kepada setiap apa yang dilakukan oleh makhluk-Nya.",
+        "perilaku": "Selalu mengingat bahwa setiap perbuatan akan ada balasannya kelak.",
+        "imgURL": "https://raw.githubusercontent.com/arindameika/Asmaul-Husna/data_asmaul_husna/asmaul_husna_image/81.png"
+	},
+	{
+		"id": "82",
+		"judul": "Al-ʿAfu",
+        "arti": "Yang Maha Pemaaf",
+        "keterangan": "Allah memaafkan kesalahan orang yang kemabali untuk meminta maaf pada-Nya.",
+        "perilaku": "Memaafkan kesalahan yang dilakukan orang lain kepada kita.",
+        "imgURL": "https://raw.githubusercontent.com/arindameika/Asmaul-Husna/data_asmaul_husna/asmaul_husna_image/82.png"
+	},
+	{
+		"id": "83",
+		"judul": "Ar-Raʾuf",
+        "arti": "Yang Maha Pengasuh",
+        "keterangan": "Allah mengasihi dan memberi Rahmat kepada hamba-hamba-Nya",
+        "perilaku": "Menyantuni anak yatim, bersedekah harta atau non-harta, berinfaq di jalan Allah SWT, memberi uang kepada kerabat yang membutuhkan.",
+        "imgURL": "https://raw.githubusercontent.com/arindameika/Asmaul-Husna/data_asmaul_husna/asmaul_husna_image/83.png"
+	},
+	{
+		"id": "84",
+		"judul": "Malikul-Mulk",
+        "arti": "Yang Maha Penguasa Kerajaan (Semesta)",
+        "keterangan": "Allah adalah segala kekuatan yang ada di alam semesta ini yang shahih dan tidak dapat di ingkari lagi kekuasaan-Nya meliputi semesta alam dan pengetahuan yang ada.",
+        "perilaku": "Berusaha untuk mencapai cita-cita atau impian",
+        "imgURL": "https://raw.githubusercontent.com/arindameika/Asmaul-Husna/data_asmaul_husna/asmaul_husna_image/84.png"
+	},
+	{
+		"id": "85",
+		"judul": "Dzul Jalaali Wal Ikraam",
+        "arti": "Yang Maha Pemilik Kebesaran dan Kemuliaan",
+        "keterangan": "Allah adalah yang Maha Memiliki keagungan dan keindahan dalam Zat-Nya, sifat- sifat-Nya, nama-nama-Nya, dan perbuatan-Nya.",
+        "perilaku": "Meyakini sepenuhnya bahwa Allah yang maha sempurna keagungan dan kemuliaanNya.",
+        "imgURL": "https://raw.githubusercontent.com/arindameika/Asmaul-Husna/data_asmaul_husna/asmaul_husna_image/85.png"
+	},
+	{
+		"id": "86",
+		"judul": "Al-Muqsith",
+        "arti": "Yang Maha Pemberi Keadilan",
+        "keterangan": "Allah memberikan kemenangan berupa keadilan bagi orang-orang yang teraniaya",
+        "perilaku": "Bersikap adil dan tidak membeda-bedakan antar sesama.",
+        "imgURL": "https://raw.githubusercontent.com/arindameika/Asmaul-Husna/data_asmaul_husna/asmaul_husna_image/86.png"
+	},
+	{
+		"id": "87",
+		"judul": "Al-Jaamiʿ",
+        "arti": "Yang Maha Pengumpul",
+        "keterangan": "Allah mengumpulkan hakikat yang sudah tercerai berai dan mengumpulkan manusia di hari pembalasan kelak.",
+        "perilaku": "Berusaha untuk menenangkan teman yang sedang bertengkar.",
+        "imgURL": "https://raw.githubusercontent.com/arindameika/Asmaul-Husna/data_asmaul_husna/asmaul_husna_image/87.png"
+	},
+	{
+		"id": "88",
+		"judul": "Al-Ghaniyy",
+        "arti": "Yang Maha Kaya",
+        "keterangan": "Allah mempunyai segalanya namun Dia tidak membutuhkannya, justru hamba-hambaNya lah yang sangat mengharap pada-Nya.",
+        "perilaku": "Selalu meminta kepada Allah karena hanya Dia yang memiliki kekayaan di dunia ini.",
+        "imgURL": "https://raw.githubusercontent.com/arindameika/Asmaul-Husna/data_asmaul_husna/asmaul_husna_image/88.png"
+	},
+	{
+		"id": "89",
+		"judul": "Al-Mughnii",
+        "arti": "Yang Maha Pemberi Kekayaan",
+        "keterangan": "Allah memberikan kelebihan berupa kekayaan kepada siap saja yang dikehendaki dari golongan hamba-Nya.",
+        "perilaku": "Selalu bersedekah, menginfakkan harta kepada mereka yang lebih membutuhkan.",
+        "imgURL": "https://raw.githubusercontent.com/arindameika/Asmaul-Husna/data_asmaul_husna/asmaul_husna_image/89.png"
+	},
+	{
+		"id": "90",
+		"judul": "Al-Maaniʿ",
+        "arti": "Yang Maha Pembela",
+        "keterangan": "Allah membela hambaNya yang sholeh dari sesuatu yang menyebabkan kerusakan.",
+        "perilaku": "Membela siapapun yang lemah dan mendapatkan ketidakadlian.",
+        "imgURL": "https://raw.githubusercontent.com/arindameika/Asmaul-Husna/data_asmaul_husna/asmaul_husna_image/90.png"
+	},
+	{
+		"id": "91",
+		"judul": "Ad-Dharr",
+        "arti": "Yang Maha Bahaya",
+        "keterangan": "Allah mendatangkan bahaya bagi siapa yang ingkar terhadapNya.",
+        "perilaku": "Selalu berdoa memohon perlindungan dari segala macam bahaya.",
+        "imgURL": "https://raw.githubusercontent.com/arindameika/Asmaul-Husna/data_asmaul_husna/asmaul_husna_image/91.png"
+	},
+	{
+		"id": "92",
+		"judul": "An-Nafiʿ",
+        "arti": "Yang Maha Pemberi Manfaat",
+        "keterangan": "Allah memberikan kembaikan kepada seluruh hamba-Nya di muka bumi ini.",
+        "perilaku": "Menjadi pribadi yang senantiasa bermanfaat bagi orang lain",
+        "imgURL": "https://raw.githubusercontent.com/arindameika/Asmaul-Husna/data_asmaul_husna/asmaul_husna_image/92.png"
+	},
+	{
+		"id": "93",
+		"judul": "An-Nuur",
+        "arti": "Yang Maha Pemberi Cahaya",
+        "keterangan": "Allah memberikan cahaya/petunjuk kepada yang dikehendaikanya dengan menunjukkan tanda-tandaNya",
+        "perilaku": "Menolong teman yang sedang kesusahan dan membantu meringankan bebannya.",
+        "imgURL": "https://raw.githubusercontent.com/arindameika/Asmaul-Husna/data_asmaul_husna/asmaul_husna_image/93.png"
+	},
+	{
+		"id": "94",
+		"judul": "Al-Hadii",
+        "arti": "Yang Maha Pemberi Petunjuk",
+        "keterangan": "Allah sebagai pemberi petunjuk bagi semua agar terjaga kehidupannya.",
+        "perilaku": "Memberi pertolongan kepada yang membutuhkan",
+        "imgURL": "https://raw.githubusercontent.com/arindameika/Asmaul-Husna/data_asmaul_husna/asmaul_husna_image/94.png"
+	},
+	{
+		"id": "95",
+		"judul": "Al-Badiiʿ",
+        "arti": "Yang Maha Pencipta yang Tidak Ada Bandingannya",
+        "keterangan": "Tidak ada yang dapat menandingi ciptaan Allah SWT",
+        "perilaku": "Selalu menciptakan sesuatu yang belum ada dan berkreasi sebagus mungkin.",
+        "imgURL": "https://raw.githubusercontent.com/arindameika/Asmaul-Husna/data_asmaul_husna/asmaul_husna_image/95.png"
+	},
+	{
+		"id": "96",
+		"judul": "Al-Baaqii",
+        "arti": "Yang Maha Kekal",
+        "keterangan": "Allah hidup untuk selama-lamanya",
+        "perilaku": "Meyakini bahwa Allah itu abadi.",
+        "imgURL": "https://raw.githubusercontent.com/arindameika/Asmaul-Husna/data_asmaul_husna/asmaul_husna_image/96.png"
+	},
+	{
+		"id": "97",
+		"judul": "Al-Warits",
+        "arti": "Yang Maha Pewaris",
+        "keterangan": "Allah yang Maha Mewarisi seluruh alam seisinya ketika hancur. Dia-lah yang memiliki dan mewarisi seluruh kerajaan dan kekuasaan yang ditinggalkan oleh penguasanya.",
+        "perilaku": "Selalu mencari bekal untuk dibawa ke akhirat kelak memngingat kita semua akan mati kecuali Allah SWT.",
+        "imgURL": "https://raw.githubusercontent.com/arindameika/Asmaul-Husna/data_asmaul_husna/asmaul_husna_image/97.png"
+	},
+	{
+		"id": "98",
+		"judul": "Ar-Rasyid",
+        "arti": "Yang Maha Pandai",
+        "keterangan": "Allah memimpin kepada kebenaran, memberikan penerangan dan panduan kepada seluruh hambaNya sesuai dengan apa yang Dia gariskan.",
+        "perilaku": "Belajar untuk menjadi pemimpin yang dapat dipercaya dan memberikan petunjuk kepada yang dipimpimnya.",
+        "imgURL": "https://raw.githubusercontent.com/arindameika/Asmaul-Husna/data_asmaul_husna/asmaul_husna_image/98.png"
+	},
+	{
+		"id": "99",
+		"judul": "As-Sabur",
+        "arti": "Yang Maha Sabar",
+        "keterangan": "Allah Maha Penyabar dan tidak tergesa-gesa dalam memberikan siksaan dan tidak juga tergesa-gesa melaksanakan sesuatu yang memang belum saatnya terjadin.",
+        "perilaku": "Sabar dalam menghadapi segala bentuk ujian dan tidak tergesa-gesa dalam mengambil keputusan.",
+        "imgURL": "https://raw.githubusercontent.com/arindameika/Asmaul-Husna/data_asmaul_husna/asmaul_husna_image/99.png"
+	} 
+]
