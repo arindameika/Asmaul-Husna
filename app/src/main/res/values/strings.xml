@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Asmaul Husna</string>
+    <string name="credit">Credit</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="keterangan">Keterangan</string>
+    <string name="isi_dari_keterangan">Isi dari keterangan</string>
+    <string name="image_desc">Image of Asmaul Husna</string>
+    <string name="perilaku_meneladani">Perilaku Meneladani</string>
+    <string name="isi_dari_perilaku_meneladani">Isi dari perilaku meneladani</string>
+    <string name="asmaul_husna_image">Asmaul Husna Image</string>
+    <string name="ar_rahman">Ar-Rahman</string>
+    <string name="arti_asmaul_husna">Arti Asmaul Husna</string>
+</resources>
