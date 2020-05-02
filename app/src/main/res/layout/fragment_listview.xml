@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <layout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools">
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
 
     <data>
         <variable
@@ -12,9 +13,18 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         tools:context=".listview.ListviewFragment">
-        <TextView
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/rv_item_list"
             android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:text="@{viewModel.response}" />
+            android:layout_height="wrap_content"
+            app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+            app:listData="@{viewModel.properties}"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            tools:itemCount="16"
+            tools:listitem="@layout/recyclerview_list_item" />
     </androidx.constraintlayout.widget.ConstraintLayout>
 </layout>

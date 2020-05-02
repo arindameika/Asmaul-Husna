@@ -5,31 +5,49 @@ import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 import com.d3if1039.asmaulhusna.network.AsmaulHusnaApiService
 import com.d3if1039.asmaulhusna.network.AsmaulHusnaProperty
+import kotlinx.coroutines.CoroutineScope
+import kotlinx.coroutines.Dispatchers
+import kotlinx.coroutines.Job
+import kotlinx.coroutines.launch
 import retrofit2.Call
 import retrofit2.Callback
 import retrofit2.Response
+import java.lang.Exception
 
 class ListviewViewModel : ViewModel() {
+
     private val _response = MutableLiveData<String>()
     val response: LiveData<String>
         get() = _response
+
+    private var viewModelJob = Job()
+    private val coroutineScope = CoroutineScope(viewModelJob +  Dispatchers.Main)
+
+    private val _properties = MutableLiveData<List<AsmaulHusnaProperty>>()
+    val properties: LiveData<List<AsmaulHusnaProperty>>
+        get() = _properties
 
     init {
         getDataAsmaulHusna()
     }
 
     private fun getDataAsmaulHusna() {
-        AsmaulHusnaApiService.AsmaulHusnaApi.retrofitService.getProperties().enqueue(
-            object : Callback<List<AsmaulHusnaProperty>>{
-                override fun onFailure(call: Call<List<AsmaulHusnaProperty>>, t: Throwable) {
-                    _response.value = "Failure" + t.message
+        coroutineScope.launch {
+            var getPropertiesDeffered = AsmaulHusnaApiService.AsmaulHusnaApi.retrofitService.getProperties()
+            try {
+                var listResult = getPropertiesDeffered.await()
+                _response.value = "Success: ${listResult.size} Asmaul Husna properties retrieved"
+                if (listResult.size > 0){
+                    _properties.value = listResult
                 }
-
-                override fun onResponse(call: Call<List<AsmaulHusnaProperty>>, response: Response<List<AsmaulHusnaProperty>>) {
-                    _response.value = "Success : ${response.body()?.size} Asmaul Husna Property retrieved"
-                }
-
+            } catch (e: Exception){
+                _response.value = "Failed: ${e.message}"
             }
-        )
+        }
+    }
+
+    override fun onCleared() {
+        super.onCleared()
+        viewModelJob.cancel()
     }
 }

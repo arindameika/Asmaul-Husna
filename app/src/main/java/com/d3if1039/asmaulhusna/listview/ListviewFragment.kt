@@ -7,6 +7,7 @@ import androidx.lifecycle.ViewModelProviders
 
 import com.d3if1039.asmaulhusna.R
 import com.d3if1039.asmaulhusna.databinding.FragmentListviewBinding
+import com.d3if1039.asmaulhusna.databinding.RecyclerviewListItemBinding
 
 /**
  * A simple [Fragment] subclass.
@@ -23,9 +24,12 @@ class ListviewFragment : Fragment() {
     ): View? {
         // Inflate the layout for this fragment
         val binding = FragmentListviewBinding.inflate(inflater)
+//        val binding = RecyclerviewListItemBinding.inflate(inflater)
 
         binding.setLifecycleOwner (this)
         binding.viewModel = viewModel
+
+        binding.rvItemList.adapter = ListViewAdapter()
 
         setHasOptionsMenu(true)
         return binding.root
