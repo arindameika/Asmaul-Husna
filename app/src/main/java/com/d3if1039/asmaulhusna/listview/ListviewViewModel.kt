@@ -14,11 +14,13 @@ import retrofit2.Callback
 import retrofit2.Response
 import java.lang.Exception
 
+enum class AsmaulHusnaApiStatus { LOADING, ERROR, DONE }
+
 class ListviewViewModel : ViewModel() {
 
-    private val _response = MutableLiveData<String>()
-    val response: LiveData<String>
-        get() = _response
+    private val _status = MutableLiveData<AsmaulHusnaApiStatus>()
+    val status: LiveData<AsmaulHusnaApiStatus>
+        get() = _status
 
     private var viewModelJob = Job()
     private val coroutineScope = CoroutineScope(viewModelJob +  Dispatchers.Main)
@@ -26,6 +28,10 @@ class ListviewViewModel : ViewModel() {
     private val _properties = MutableLiveData<List<AsmaulHusnaProperty>>()
     val properties: LiveData<List<AsmaulHusnaProperty>>
         get() = _properties
+
+    private val _navigateToSelectedItem = MutableLiveData<AsmaulHusnaProperty>()
+    val navigateToSelectedItem : LiveData<AsmaulHusnaProperty>
+        get() = _navigateToSelectedItem
 
     init {
         getDataAsmaulHusna()
@@ -35,15 +41,25 @@ class ListviewViewModel : ViewModel() {
         coroutineScope.launch {
             var getPropertiesDeffered = AsmaulHusnaApiService.AsmaulHusnaApi.retrofitService.getProperties()
             try {
+                _status.value = AsmaulHusnaApiStatus.LOADING
                 var listResult = getPropertiesDeffered.await()
-                _response.value = "Success: ${listResult.size} Asmaul Husna properties retrieved"
+                _status.value = AsmaulHusnaApiStatus.DONE
                 if (listResult.size > 0){
                     _properties.value = listResult
                 }
             } catch (e: Exception){
-                _response.value = "Failed: ${e.message}"
+                _status.value = AsmaulHusnaApiStatus.ERROR
+                _properties.value = ArrayList()
             }
         }
+    }
+
+    fun displayItemDetails(asmaulHusnaProperty: AsmaulHusnaProperty){
+        _navigateToSelectedItem.value = asmaulHusnaProperty
+    }
+
+    fun displayItemDetailsComplete() {
+        _navigateToSelectedItem.value = null
     }
 
     override fun onCleared() {

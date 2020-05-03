@@ -8,7 +8,7 @@ import androidx.recyclerview.widget.RecyclerView
 import com.d3if1039.asmaulhusna.databinding.RecyclerviewListItemBinding
 import com.d3if1039.asmaulhusna.network.AsmaulHusnaProperty
 
-class ListViewAdapter : ListAdapter<AsmaulHusnaProperty,
+class ListViewAdapter(private val onClickListener: OnClickListener) : ListAdapter<AsmaulHusnaProperty,
         ListViewAdapter.AsmaulHusnaPropertyViewHolder>(DiffCallback) {
 
     override fun onCreateViewHolder(
@@ -20,11 +20,11 @@ class ListViewAdapter : ListAdapter<AsmaulHusnaProperty,
         ))
     }
 
-    override fun onBindViewHolder(
-        holder: ListViewAdapter.AsmaulHusnaPropertyViewHolder,
-        position: Int
-    ) {
+    override fun onBindViewHolder(holder: ListViewAdapter.AsmaulHusnaPropertyViewHolder, position: Int){
         val asmaulHusnaProperty = getItem(position)
+        holder.itemView.setOnClickListener {
+            onClickListener.onClick(asmaulHusnaProperty)
+        }
         holder.bind(asmaulHusnaProperty)
     }
 
@@ -52,5 +52,9 @@ class ListViewAdapter : ListAdapter<AsmaulHusnaProperty,
             binding.property = asmaulHusnaProperty
             binding.executePendingBindings()
         }
+    }
+
+    class OnClickListener(val clickListener: (asmaulHusnaProperty:AsmaulHusnaProperty) -> Unit) {
+        fun onClick(asmaulHusnaProperty: AsmaulHusnaProperty) = clickListener(asmaulHusnaProperty)
     }
 }

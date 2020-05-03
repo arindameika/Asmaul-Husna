@@ -1,7 +1,10 @@
 package com.d3if1039.asmaulhusna.network
 
+import android.os.Parcelable
 import com.squareup.moshi.Json
+import kotlinx.android.parcel.Parcelize
 
+@Parcelize
 data class AsmaulHusnaProperty(
     val id : String,
     val judul : String,
@@ -9,5 +12,6 @@ data class AsmaulHusnaProperty(
     val keterangan : String,
     val perilaku : String,
     @Json(name = "imgURL")
-    val imgSrcUrl : String
-)
+    val imgSrcUrl : String) : Parcelable {
+
+}

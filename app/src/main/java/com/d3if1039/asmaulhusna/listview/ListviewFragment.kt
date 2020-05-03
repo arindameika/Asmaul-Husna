@@ -3,7 +3,9 @@ package com.d3if1039.asmaulhusna.listview
 import android.os.Bundle
 import android.view.*
 import androidx.fragment.app.Fragment
+import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProviders
+import androidx.navigation.fragment.findNavController
 
 import com.d3if1039.asmaulhusna.R
 import com.d3if1039.asmaulhusna.databinding.FragmentListviewBinding
@@ -29,7 +31,17 @@ class ListviewFragment : Fragment() {
         binding.setLifecycleOwner (this)
         binding.viewModel = viewModel
 
-        binding.rvItemList.adapter = ListViewAdapter()
+        binding.rvItemList.adapter = ListViewAdapter(ListViewAdapter.OnClickListener{
+            viewModel.displayItemDetails(it)
+        })
+
+        viewModel.navigateToSelectedItem.observe(this, Observer{
+            if (null != it){
+                this.findNavController().navigate(
+                    ListviewFragmentDirections.actionListviewFragmentToDetailFragment(it))
+                viewModel.displayItemDetailsComplete()
+            }
+        })
 
         setHasOptionsMenu(true)
         return binding.root
