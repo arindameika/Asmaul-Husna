@@ -25,7 +25,6 @@ private val retrofit = Retrofit.Builder()
 
 //buat interface untuk mendefinisikan bagaimana si retrofit berkomunikasi dengan web server menggunakan HTTP request
 interface AsmaulHusnaApiService{
-
     @GET("asmaul_husna.json")
     fun getProperties(): Deferred<List<AsmaulHusnaProperty>>
     object AsmaulHusnaApi{

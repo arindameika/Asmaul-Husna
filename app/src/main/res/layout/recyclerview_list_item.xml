@@ -10,14 +10,19 @@
 
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="match_parent"
         android:orientation="vertical">
 
         <androidx.cardview.widget.CardView
-            android:id="@+id/cardview_list_item"
+            android:id="@+id/cv_asmaulhusna_item"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_margin="8dp">
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginEnd="16dp"
+            app:cardBackgroundColor="@android:color/white"
+            app:cardCornerRadius="20dp"
+            app:cardElevation="2dp">
 
             <androidx.constraintlayout.widget.ConstraintLayout
                 android:layout_width="match_parent"
@@ -25,14 +30,13 @@
                 android:orientation="horizontal">
 
                 <ImageView
-                    android:id="@+id/img_asmaulhusna"
+                    android:id="@+id/imageView3"
                     android:layout_width="80dp"
                     android:layout_height="80dp"
                     android:layout_marginStart="8dp"
                     android:layout_marginTop="8dp"
                     android:layout_marginBottom="8dp"
-                    android:layout_weight="1"
-                    android:contentDescription="@string/asmaul_husna_image"
+                    android:contentDescription="@string/image_desc"
                     app:imageUrl="@{property.imgSrcUrl}"
                     app:layout_constraintBottom_toBottomOf="parent"
                     app:layout_constraintStart_toStartOf="parent"
@@ -41,31 +45,49 @@
 
                 <TextView
                     android:id="@+id/tv_nama_asmaulhusna"
-                    android:layout_width="wrap_content"
+                    android:layout_width="0dp"
                     android:layout_height="wrap_content"
-                    android:layout_marginStart="16dp"
-                    android:layout_marginTop="8dp"
+                    android:layout_marginStart="8dp"
+                    android:layout_marginEnd="8dp"
                     android:text="@{property.judul}"
                     android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                    android:textColor="@android:color/black"
+                    android:textStyle="bold"
+                    app:layout_constraintBottom_toBottomOf="@+id/tv_nomor_asmaulhusna"
                     app:layout_constraintEnd_toEndOf="parent"
-                    app:layout_constraintHorizontal_bias="0.0"
-                    app:layout_constraintStart_toEndOf="@+id/img_asmaulhusna"
-                    app:layout_constraintTop_toTopOf="@+id/img_asmaulhusna"
+                    app:layout_constraintStart_toEndOf="@+id/tv_nomor_asmaulhusna"
+                    app:layout_constraintTop_toTopOf="@+id/tv_nomor_asmaulhusna"
                     tools:text="@string/ar_rahman" />
 
                 <TextView
                     android:id="@+id/tv_arti_asmaulhusna"
-                    android:layout_width="wrap_content"
+                    android:layout_width="0dp"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="8dp"
-                    android:maxLines="2"
+                    android:layout_marginEnd="8dp"
                     android:text="@{property.arti}"
+                    android:textColor="@android:color/black"
                     app:layout_constraintEnd_toEndOf="parent"
                     app:layout_constraintHorizontal_bias="0.0"
                     app:layout_constraintStart_toStartOf="@+id/tv_nama_asmaulhusna"
                     app:layout_constraintTop_toBottomOf="@+id/tv_nama_asmaulhusna"
                     tools:text="@string/arti_asmaul_husna" />
+
+                <TextView
+                    android:id="@+id/tv_nomor_asmaulhusna"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="8dp"
+                    android:layout_marginTop="8dp"
+                    android:text="@{property.id}"
+                    android:textStyle="bold"
+                    app:layout_constraintStart_toEndOf="@+id/imageView3"
+                    app:layout_constraintTop_toTopOf="@+id/imageView3"
+                    tools:text="@string/number" />
             </androidx.constraintlayout.widget.ConstraintLayout>
+
         </androidx.cardview.widget.CardView>
+
     </LinearLayout>
+
 </layout>

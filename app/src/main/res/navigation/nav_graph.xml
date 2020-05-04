@@ -17,7 +17,6 @@
         android:label="DetailFragment">
         <argument
             android:name="SELECTED_DETAIL_PROPERTY"
-            app:argType="com.d3if1039.asmaulhusna.network.AsmaulHusnaProperty"
-            />
+            app:argType="com.d3if1039.asmaulhusna.network.AsmaulHusnaProperty" />
     </fragment>
 </navigation>
